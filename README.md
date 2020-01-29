@@ -1,2 +1,0 @@
-# mgnrega
-Internal Project
