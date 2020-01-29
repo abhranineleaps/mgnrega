@@ -47,20 +47,6 @@ Setup for Running the Project
     -> python run.py
 
 ```
-
-
-Setup for Running test cases
----
-```
-1. Open the project MGNREGA
-2. Activate virtual environment
-    -> source venv/bin/activate
-3. Move to src folder
-    -> cd venv/src
-4. For running test cases
-    -> coverage run -m pytest
-5. For coverage result
-    -> coverage report -m block_development_officer.py member.py run.py schema.py gram_panchayat_member.py
 ```
 
 ```
